@@ -1,0 +1,3 @@
+﻿  guessTheNumber.cpp
+c:\users\lolca\documents\c++learning\guessthenumber\guessthenumber\guessthenumber.cpp(20): warning C4101: 'errorNum': unreferenced local variable
+  guessTheNumber.vcxproj -> C:\Users\lolca\Documents\C++Learning\guessTheNumber\Debug\guessTheNumber.exe
